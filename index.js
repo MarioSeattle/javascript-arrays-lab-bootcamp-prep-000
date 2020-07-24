@@ -35,7 +35,7 @@ return kittens.shift("Bob");
 
 function  appendKitten(name){
   
-var appendKitten = kittens.unshift("Broom");
+var appendKitten = kittens.push("Broom");
 
 return appendKitten; 
   
