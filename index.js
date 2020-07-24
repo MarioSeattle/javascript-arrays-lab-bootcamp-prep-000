@@ -37,7 +37,7 @@ function  appendKitten(name){
   
 var appendKitten = kittens.push("Milo");
 
-return array; 
+return kittens; 
   
 }
 
