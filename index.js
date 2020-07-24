@@ -37,7 +37,7 @@ function  appendKitten(name){
   
 var appendKitten = kittens.push();
 
-return app; 
+return appendKitten; 
   
 }
 
