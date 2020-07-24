@@ -35,11 +35,11 @@ return kittens.shift("Bob");
 
 function  appendKitten(name){
   
-var appendKitten = kittens.push("Broom");
 
-return appendKitten; 
 
-var appendKitten = 
+var appendKitten = kittens.slice("Broom");
+
+return appendKitten;
   
 }
 
