@@ -33,20 +33,11 @@ return kittens.shift("Bob");
  
 }
 
-function appendKitten(name){
+function  appendKitten(name){
   
-var appendKitten = array.slice(0, array.length-1);
+var appendKitten = kittens.push();
 
- return sliceLastElement;
-  
-  
-}
-
-function destructivelyRemoveElementFromEndOfArray(array){
-  
-var removeLastElement = array.pop();
-
-return array; 
+return app; 
   
 }
 
