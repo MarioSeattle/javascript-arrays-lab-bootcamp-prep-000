@@ -38,6 +38,8 @@ function  appendKitten(name){
 var appendKitten = kittens.push("Broom");
 
 return appendKitten; 
+
+var appendKitten = 
   
 }
 
