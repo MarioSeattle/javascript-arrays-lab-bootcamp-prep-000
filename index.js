@@ -35,9 +35,23 @@ return kittens.shift("Bob");
 
 function appendKitten(name){
   
-return kittens.shift("coco");
- 
+var appendKitten = array.slice(0, array.length-1);
+
+ return sliceLastElement;
+  
+  
 }
+
+function destructivelyRemoveElementFromEndOfArray(array){
+  
+var removeLastElement = array.pop();
+
+return array; 
+  
+}
+
+
+
 
 
 
